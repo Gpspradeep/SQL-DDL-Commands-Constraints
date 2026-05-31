@@ -54,7 +54,7 @@ The database is structured using relational data modeling principles and incorpo
 
 This project follows a Relational Data Model where multiple tables are connected through Primary and Foreign Keys to reduce redundancy and maintain data consistency.
 
-<img width="1600" height="1061" alt="image" src="https://github.com/user-attachments/assets/1d9b9a2f-d648-46a6-84f8-490eb827e54b" />
+<img width="1368" height="954" alt="image" src="https://github.com/user-attachments/assets/323c6137-a31e-489b-bbaa-038989dd3b37" />
 
 ### Data Entities
 
